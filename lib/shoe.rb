@@ -5,7 +5,7 @@ attr_reader :brand
    @brand = brand
  end
 
- def cobble
-
+ def cobble(condition = "new")
+   puts "Your shoe is as good as new!"
  end
 end # Make your shoe class here!
