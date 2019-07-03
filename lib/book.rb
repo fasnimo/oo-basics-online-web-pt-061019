@@ -3,5 +3,8 @@ class Book
     # @book = title
   end
 
+  def title
+
+  end
 
 end
